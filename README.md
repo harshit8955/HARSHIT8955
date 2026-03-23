@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit8955&label=Profile%20views&color=0e75b6&style=flat" alt="harshit8955" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshit8955" alt="harshit8955" /></a> </p>
+<p align="left"> <a href="https://github.com/harshit8955"><img src="https://github-profile-trophy.vercel.app/?username=harshit8955" alt="harshit8955" /></a> </p>
 
 - 🔭 I’m currently working on [Pushpak](https://harshit8955.github.io/mini_dino/)
 
