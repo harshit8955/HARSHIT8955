@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit8955&label=Profile%20views&color=0e75b6&style=flat" alt="harshit8955" /> </p>
 
-<p align="left"> <a href="https://github.com/harshit8955"><img src="https://avatars.githubusercontent.com/u/173061239?s=400&u=bfdd5f939d58de0e2b8b71b2d7d85bb525714a4d&v=4" alt="harshit8955" /></a> </p>
+<p align="left"> <a href="https://github.com/harshit8955"><img src="#" alt="harshit8955" /></a> </p>
 
 - 🔭 I’m currently working on [Pushpak](https://harshit8955.github.io/mini_dino/)
 
